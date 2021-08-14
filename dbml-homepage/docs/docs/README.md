@@ -100,7 +100,7 @@ Each setting item can take in 2 forms: `Key: Value` or `keyword`, similar to tha
 ## Column Definition
 
 ### Column Settings 
-Each column can take have optional settings, defined in square brackets like:
+Each column can take optional settings, defined in square brackets like:
 
     Table buildings {
         ...
